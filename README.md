@@ -83,7 +83,7 @@ Requires Python 3.10+ and a Google AI Studio API key.
 
 ```bash
 git clone https://github.com/mallahim01/MCP-server
-cd MCP-PROJ
+cd MCP-server
 
 # 1. Create and activate a virtual environment
 python -m venv .venv
