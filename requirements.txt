@@ -1,0 +1,13 @@
+# MCP Python SDK (v2) — the server and client halves of the protocol.
+mcp>=2.0.0,<3
+
+# Gemini is reached through its OpenAI-compatible endpoint, so the official
+# OpenAI SDK is the client.
+openai>=2.0.0
+
+# Loads GEMINI_API_KEY / GEMINI_MODEL from .env
+python-dotenv>=1.0.0
+
+# IANA timezone database, needed by get_current_time on Windows (Linux/macOS
+# usually ship one system-wide, but installing it keeps behaviour identical).
+tzdata>=2024.1
