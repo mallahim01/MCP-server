@@ -82,7 +82,7 @@ Notes:
 Requires Python 3.10+ and a Google AI Studio API key.
 
 ```bash
-git clone https://github.com/mallahim-ai/MCP-PROJ.git
+git clone https://github.com/mallahim01/MCP-server
 cd MCP-PROJ
 
 # 1. Create and activate a virtual environment
